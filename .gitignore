@@ -1,0 +1,11 @@
+./data/*
+*.pdf
+*.h5
+*.gz
+*.csv
+*.json
+*.log
+*.zip
+*.tar
+*.tar.gz
+.DS_Store
